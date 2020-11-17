@@ -24,10 +24,10 @@
   },
   "homepage": "https://github.com/fulls1z3/ngx-config/tree/master/packages/@ngx-config/http-loader#readme",
   "peerDependencies": {
-    "@angular/common": ">=9.0.0 <10.0.0",
-    "@angular/core": ">=9.0.0 <10.0.0",
-    "@angular/platform-browser-dynamic": ">=9.0.0 <10.0.0",
-    "@ngx-config/core": ">=9.0.0 <10.0.0",
+    "@angular/common": ">=9.0.0 <12.0.0",
+    "@angular/core": ">=9.0.0 <12.0.0",
+    "@angular/platform-browser-dynamic": ">=9.0.0 <12.0.0",
+    "@ngx-config/core": ">=9.0.0 <12.0.0",
     "rxjs": ">=6.0.0"
   },
   "publishConfig": {
